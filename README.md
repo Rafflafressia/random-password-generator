@@ -1,4 +1,5 @@
-#Description
+##Description
+
 The goal of this project was to create a password generator for a client. 
 
 For this password generator, we ask the user to enter in a valid password length from a minimum of 8 characters to a maximum of 128 characters. 
@@ -9,7 +10,7 @@ If the user does not make any valid inputs, the program notifies the user and as
 
 Based on valid user input, the code will spit out a password within the criterias the user set into the program.
 
-#User Story
+##User Story
 AS AN employee with access to sensitive data
 I WANT to randomly generate a password that meets certain criteria
 SO THAT I can create a strong password that provides greater security
@@ -32,18 +33,18 @@ THEN the password is either displayed in an alert or written to the page
 Images
 Website Preview Image
 
-#Link URL to deployed webpage on GitHub
+##Link URL to deployed webpage on GitHub
 
-#Capture of working program
+##Capture of working program
 ![gif of working program](js-gen-gif.gif)
 #Installation
 N/A
 
-#Technologies Used
+##Technologies Used
 VS Code
 Github
 
-#Credits
+##Credits
 Institution: The University Of Toronto
 Course: Bootcamp Full Stack Development
 Instructor: Daler Singh
