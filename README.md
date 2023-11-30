@@ -1,4 +1,4 @@
-##Description
+## Description
 
 The goal of this project was to create a password generator for a client. 
 
@@ -10,7 +10,7 @@ If the user does not make any valid inputs, the program notifies the user and as
 
 Based on valid user input, the code will spit out a password within the criterias the user set into the program.
 
-##User Story
+## User Story
 AS AN employee with access to sensitive data
 I WANT to randomly generate a password that meets certain criteria
 SO THAT I can create a strong password that provides greater security
@@ -30,21 +30,22 @@ WHEN all prompts are answered
 THEN a password is generated that matches the selected criteria
 WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
-Images
-Website Preview Image
 
-##Link URL to deployed webpage on GitHub
 
-##Capture of working program
+## Link URL to deployed webpage on GitHub
+https://rafflafressia.github.io/random-password-generator/
+
+## Capture of working program
 ![gif of working program](js-gen-gif.gif)
-#Installation
+
+# Installation
 N/A
 
-##Technologies Used
+## Technologies Used
 VS Code
 Github
 
-##Credits
+## Credits
 Institution: The University Of Toronto
 Course: Bootcamp Full Stack Development
 Instructor: Daler Singh
